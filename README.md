@@ -23,8 +23,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Schemas and helpers for x12i ebook libraries (catalog, use-cases, manifests).
-- A Ebooks integration needs to reuse the capabilities of @x12i/ebooks-core inside a larger application.
+- Validate a product ebook catalog and manifest.
+- Share book and use-case schemas between the exporter and reader.
 
 ## Links
 
