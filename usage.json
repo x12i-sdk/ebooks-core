@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/ebooks-core",
+  "packageVersion": "1.0.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/ebooks-core",
+  "usageRepository": "https://github.com/x12i-sdk/ebooks-core",
+  "sourceRepository": null,
+  "sourceCommit": null,
+  "sourcePackageDirectory": null,
+  "example": {
+    "title": "Validate incoming JSON and report contract errors",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T12:30:31.941352+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "93fa2b72efd205421522c08116b30bab288067ce26d6e19e8b69a378c8fceba9",
+    "manifestSha256": "08ad9cee0038886f2ea33bfdcbc0860b667144d9b7fe2ba9ea0e5ade0fda2054"
+  }
+}
